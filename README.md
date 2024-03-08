@@ -6,7 +6,9 @@ This was a project to get myself more familiar with Go. It is a very interesting
 
 > Go is a general-purpose language designed with systems programming in mind. It was initially developed at Google in the year 2007 by Robert Griesemer, Rob Pike, and Ken Thompson. It is strongly and statically typed, provides inbuilt support for garbage collection, and supports concurrent programming.
 
-Redis is another technology that interests me. Redis is an in memory database that is often used as a caching layer (but it can be used as a full blown database). In its simplest form it is a key value store.
+Redis is another technology that interests me. Redis is an in memory database that is often used as a caching layer (but it can be used as a full blown database). In its simplest form it is a key value store. (per redis.io)
+
+> Redis is an open source (BSD licensed), in-memory data structure store used as a database, cache, message broker, and streaming engine.
 
 ## Features
 
